@@ -1,3 +1,5 @@
+# This version merely has some tweaks that I deemed unneccesary removed for (hopefully) improved stability.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
